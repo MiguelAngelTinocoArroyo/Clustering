@@ -6,4 +6,4 @@ De los Datos extraidos por Scrapy de las plataformas Ecommerce
 2. Análisis EDA
 3. Algoritmo de clustering K-modes
 4. Resultados de clustering en Streamlit
-Este reporte de analisis ha sido creado con datos de haber realizado antes del clustering y despues del cluster con kmodes.
+Este reporte de analisis ha sido creado antes del clustering y después del cluster con kmodes.
